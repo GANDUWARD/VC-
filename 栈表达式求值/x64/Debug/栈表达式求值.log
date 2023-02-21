@@ -1,0 +1,5 @@
+﻿  栈表达式求值.cpp
+C:\Users\pc\Desktop\VC\栈表达式求值\栈表达式求值.cpp(86,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\VC\栈表达式求值\栈表达式求值.cpp(123,29): warning C4101: “ch”: 未引用的局部变量
+C:\Users\pc\Desktop\VC\栈表达式求值\栈表达式求值.cpp(119): warning C4172: 返回局部变量或临时变量的地址: Suffix
+  栈表达式求值.vcxproj -> C:\Users\pc\Desktop\VC\栈表达式求值\x64\Debug\栈表达式求值.exe

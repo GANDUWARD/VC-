@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\VC\testspace\bin\Debug\testspace.exe.config
+C:\Users\pc\Desktop\VC\testspace\bin\Debug\testspace.exe
+C:\Users\pc\Desktop\VC\testspace\bin\Debug\testspace.pdb
+C:\Users\pc\Desktop\VC\testspace\obj\Debug\testspace.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\VC\testspace\obj\Debug\testspace.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\VC\testspace\obj\Debug\testspace.exe
+C:\Users\pc\Desktop\VC\testspace\obj\Debug\testspace.pdb

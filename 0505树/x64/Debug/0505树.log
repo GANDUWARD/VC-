@@ -1,0 +1,3 @@
+﻿  0505树.cpp
+C:\Users\pc\Desktop\VC\0505树\0505树.cpp(262,11): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CSTree”
+  0505树.vcxproj -> C:\Users\pc\Desktop\VC\0505树\x64\Debug\0505树.exe

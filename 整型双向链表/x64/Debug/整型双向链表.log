@@ -1,0 +1,4 @@
+﻿  整型双向链表.cpp
+C:\Users\pc\Desktop\VC\整型双向链表\整型双向链表.cpp(25): warning C4715: “print”: 不是所有的控件路径都返回值
+C:\Users\pc\Desktop\VC\整型双向链表\整型双向链表.cpp(63): warning C4715: “find_data”: 不是所有的控件路径都返回值
+  整型双向链表.vcxproj -> C:\Users\pc\Desktop\VC\整型双向链表\x64\Debug\整型双向链表.exe

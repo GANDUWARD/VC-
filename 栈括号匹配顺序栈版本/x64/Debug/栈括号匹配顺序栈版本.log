@@ -1,0 +1,5 @@
+﻿  栈括号匹配顺序栈版本.cpp
+C:\Users\pc\Desktop\VC\栈括号匹配顺序栈版本\栈括号匹配顺序栈版本.cpp(87,9): warning C4101: “x”: 未引用的局部变量
+C:\Users\pc\Desktop\VC\栈括号匹配顺序栈版本\栈括号匹配顺序栈版本.cpp(87,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\pc\Desktop\VC\栈括号匹配顺序栈版本\栈括号匹配顺序栈版本.cpp(34): warning C4715: “pop”: 不是所有的控件路径都返回值
+  栈括号匹配顺序栈版本.vcxproj -> C:\Users\pc\Desktop\VC\栈括号匹配顺序栈版本\x64\Debug\栈括号匹配顺序栈版本.exe

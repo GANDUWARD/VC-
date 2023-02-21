@@ -1,0 +1,4 @@
+﻿  无向图稀疏矩阵.cpp
+C:\Users\pc\Desktop\VC\无向图稀疏矩阵\无向图稀疏矩阵.cpp(58,16): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“Vertextype”
+C:\Users\pc\Desktop\VC\无向图稀疏矩阵\无向图稀疏矩阵.cpp(133,12): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“Vertextype”
+  无向图稀疏矩阵.vcxproj -> C:\Users\pc\Desktop\VC\无向图稀疏矩阵\x64\Debug\无向图稀疏矩阵.exe

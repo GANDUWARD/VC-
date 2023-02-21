@@ -1,0 +1,5 @@
+﻿  二叉树求表达值.cpp
+C:\Users\pc\Desktop\VC\二叉树求表达值\二叉树求表达值.cpp(121,10): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\pc\Desktop\VC\二叉树求表达值\二叉树求表达值.cpp(128,10): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\pc\Desktop\VC\二叉树求表达值\二叉树求表达值.cpp(132,12): warning C4305: “*=”: 从“double”到“float”截断
+  二叉树求表达值.vcxproj -> C:\Users\pc\Desktop\VC\二叉树求表达值\x64\Debug\二叉树求表达值.exe

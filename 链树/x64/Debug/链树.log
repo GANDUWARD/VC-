@@ -1,0 +1,5 @@
+﻿  链树.cpp
+C:\Users\pc\Desktop\VC\链树\链树.cpp(212,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Elemdata”
+C:\Users\pc\Desktop\VC\链树\链树.cpp(233,11): warning C4101: “q”: 未引用的局部变量
+C:\Users\pc\Desktop\VC\链树\链树.cpp(255,13): warning C4101: “q”: 未引用的局部变量
+  链树.vcxproj -> C:\Users\pc\Desktop\VC\链树\x64\Debug\链树.exe

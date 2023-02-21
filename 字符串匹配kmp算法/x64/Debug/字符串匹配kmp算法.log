@@ -1,0 +1,6 @@
+﻿  字符串匹配kmp算法.cpp
+C:\Users\pc\Desktop\VC\字符串匹配kmp算法\字符串匹配kmp算法.cpp(46,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\VC\字符串匹配kmp算法\字符串匹配kmp算法.cpp(76,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\VC\字符串匹配kmp算法\字符串匹配kmp算法.cpp(76,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\VC\字符串匹配kmp算法\字符串匹配kmp算法.cpp(96,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  字符串匹配kmp算法.vcxproj -> C:\Users\pc\Desktop\VC\字符串匹配kmp算法\x64\Debug\字符串匹配kmp算法.exe

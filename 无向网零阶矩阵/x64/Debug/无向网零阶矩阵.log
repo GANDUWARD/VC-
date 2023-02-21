@@ -1,0 +1,4 @@
+﻿  无向网零阶矩阵.cpp
+C:\Users\pc\Desktop\VC\无向网零阶矩阵\无向网零阶矩阵.cpp(69,16): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“Vertextype”
+C:\Users\pc\Desktop\VC\无向网零阶矩阵\无向网零阶矩阵.cpp(298,56): warning C4101: “p”: 未引用的局部变量
+  无向网零阶矩阵.vcxproj -> C:\Users\pc\Desktop\VC\无向网零阶矩阵\x64\Debug\无向网零阶矩阵.exe

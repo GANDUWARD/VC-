@@ -1,0 +1,4 @@
+﻿  0516无向图.cpp
+C:\Users\pc\Desktop\VC\0516无向图\0516无向图.cpp(63,16): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“Vertextype”
+C:\Users\pc\Desktop\VC\0516无向图\0516无向图.cpp(292,56): warning C4101: “p”: 未引用的局部变量
+  0516无向图.vcxproj -> C:\Users\pc\Desktop\VC\0516无向图\x64\Debug\0516无向图.exe

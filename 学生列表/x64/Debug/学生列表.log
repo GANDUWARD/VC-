@@ -1,0 +1,3 @@
+﻿  学生列表.cpp
+C:\Users\pc\Desktop\VC\学生列表\学生列表.cpp(25): warning C4715: “create”: 不是所有的控件路径都返回值
+  学生列表.vcxproj -> C:\Users\pc\Desktop\VC\学生列表\x64\Debug\学生列表.exe

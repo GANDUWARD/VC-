@@ -1,0 +1,8 @@
+﻿  栈表达式求值实数版.cpp
+C:\Users\pc\Desktop\VC\栈表达式求值实数版\栈表达式求值实数版.cpp(87,10): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\pc\Desktop\VC\栈表达式求值实数版\栈表达式求值实数版.cpp(94,10): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\pc\Desktop\VC\栈表达式求值实数版\栈表达式求值实数版.cpp(98,12): warning C4305: “*=”: 从“double”到“float”截断
+C:\Users\pc\Desktop\VC\栈表达式求值实数版\栈表达式求值实数版.cpp(106,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\VC\栈表达式求值实数版\栈表达式求值实数版.cpp(148,18): warning C4101: “ch”: 未引用的局部变量
+C:\Users\pc\Desktop\VC\栈表达式求值实数版\栈表达式求值实数版.cpp(144): warning C4172: 返回局部变量或临时变量的地址: Suffix
+  栈表达式求值实数版.vcxproj -> C:\Users\pc\Desktop\VC\栈表达式求值实数版\x64\Debug\栈表达式求值实数版.exe

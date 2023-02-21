@@ -1,0 +1,49 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 0418 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\pc\AppData\Local\Temp\RSPD820.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/0418.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\pc\Desktop\VC\0418\0418.c"
+]
+Creating command line "cl.exe @C:\Users\pc\AppData\Local\Temp\RSPD820.tmp" 
+Creating temporary file "C:\Users\pc\AppData\Local\Temp\RSPD831.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/0418.pdb" /debug /machine:I386 /out:"Debug/0418.exe" /pdbtype:sept 
+.\Debug\0418.obj
+]
+Creating command line "link.exe @C:\Users\pc\AppData\Local\Temp\RSPD831.tmp"
+<h3>Output Window</h3>
+Compiling...
+0418.c
+C:\Users\pc\Desktop\VC\0418\0418.c(122) : warning C4133: '=' : incompatible types - from 'struct Treenode *' to 'int *'
+C:\Users\pc\Desktop\VC\0418\0418.c(124) : warning C4133: '=' : incompatible types - from 'struct Treenode *' to 'int *'
+C:\Users\pc\Desktop\VC\0418\0418.c(147) : warning C4133: 'function' : incompatible types - from 'int *' to 'struct Treenode *'
+C:\Users\pc\Desktop\VC\0418\0418.c(148) : warning C4133: 'function' : incompatible types - from 'int *' to 'struct Treenode *'
+C:\Users\pc\Desktop\VC\0418\0418.c(158) : warning C4133: 'function' : incompatible types - from 'int ** ' to 'struct Treenode ** '
+C:\Users\pc\Desktop\VC\0418\0418.c(159) : warning C4133: 'function' : incompatible types - from 'int ** ' to 'struct Treenode ** '
+C:\Users\pc\Desktop\VC\0418\0418.c(167) : warning C4133: 'function' : incompatible types - from 'int ** ' to 'struct Treenode ** '
+C:\Users\pc\Desktop\VC\0418\0418.c(168) : warning C4133: 'function' : incompatible types - from 'int ** ' to 'struct Treenode ** '
+C:\Users\pc\Desktop\VC\0418\0418.c(186) : warning C4133: 'function' : incompatible types - from 'int ** ' to 'struct Treenode ** '
+C:\Users\pc\Desktop\VC\0418\0418.c(187) : warning C4133: 'function' : incompatible types - from 'int ** ' to 'struct Treenode ** '
+C:\Users\pc\Desktop\VC\0418\0418.c(192) : warning C4133: 'function' : incompatible types - from 'int ** ' to 'struct Treenode ** '
+C:\Users\pc\Desktop\VC\0418\0418.c(193) : warning C4133: 'function' : incompatible types - from 'int ** ' to 'struct Treenode ** '
+C:\Users\pc\Desktop\VC\0418\0418.c(217) : warning C4133: 'function' : incompatible types - from 'int *' to 'struct Treenode *'
+C:\Users\pc\Desktop\VC\0418\0418.c(218) : warning C4133: 'function' : incompatible types - from 'int *' to 'struct Treenode *'
+C:\Users\pc\Desktop\VC\0418\0418.c(169) : warning C4716: 'level_width' : must return a value
+C:\Users\pc\Desktop\VC\0418\0418.c(188) : warning C4715: 'sum_point' : not all control paths return a value
+C:\Users\pc\Desktop\VC\0418\0418.c(194) : warning C4716: 'find_biggest' : must return a value
+Linking...
+
+
+
+<h3>Results</h3>
+0418.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

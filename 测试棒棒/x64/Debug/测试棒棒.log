@@ -1,0 +1,107 @@
+﻿  测试棒棒.cpp
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(91,17): error C2065: “SqList”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(91,25): error C2065: “SL”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(92,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(92,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(98,19): error C2065: “SqList”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(98,27): error C2065: “SL”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(98,31): error C2062: 意外的类型“int”
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(99,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(99,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(105,16): error C2065: “SqList”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(105,24): error C2065: “SL”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(105,28): error C2065: “elemdata”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(105,37): error C2146: 语法错误: 缺少“)”(在标识符“x”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(106,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(106,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(112,17): error C2065: “SqList”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(112,25): error C2065: “SL”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(112,29): error C2065: “elemdata”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(112,38): error C2146: 语法错误: 缺少“)”(在标识符“x”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(113,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(113,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(121,12): error C2065: “SqList”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(121,20): error C2065: “SL”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(121,24): error C2062: 意外的类型“int”
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(122,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(122,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(127,11): error C2065: “SqList”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(127,19): error C2065: “SL”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(128,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(128,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(133,9): error C2065: “SqList”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(133,17): error C2065: “SL”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(133,20): error C2065: “SqList”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(133,27): error C2065: “SL2”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(134,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(134,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(157,1): error C2144: 语法错误:“int”的前面应有“;”
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(157,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(157,15): error C2065: “SqStack”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(157,24): error C2065: “S”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(158,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(158,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(163,15): error C2065: “SqStack”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(163,24): error C2065: “S”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(164,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(164,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(169,10): error C2065: “SqStack”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(169,19): error C2065: “S”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(169,22): error C2065: “elemdata”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(169,31): error C2146: 语法错误: 缺少“)”(在标识符“x”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(170,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(170,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(175,16): error C2065: “SqStack”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(175,25): error C2065: “S”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(176,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(176,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(181,9): error C2065: “SqStack”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(181,18): error C2065: “S”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(182,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(182,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(187,13): error C2065: “SqStack”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(187,22): error C2065: “S”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(187,24): error C2065: “elemdata”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(187,33): error C2065: “e”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(188,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(188,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(193,5): error C2374: “print”: 重定义；多次初始化
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(127): message : 参见“print”的声明
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(193,11): error C2065: “SqStack”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(193,20): error C2065: “S”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(194,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(194,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(201,1): error C2144: 语法错误:“int”的前面应有“;”
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(201,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(201,15): error C2065: “SqQueue”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(201,24): error C2065: “Q”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(202,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(202,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(208,15): error C2065: “SqQueue”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(208,24): error C2065: “Q”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(209,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(209,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(214,13): error C2065: “SqQueue”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(214,22): error C2065: “Q”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(214,24): error C2065: “elemdata”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(214,33): error C2146: 语法错误: 缺少“)”(在标识符“x”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(215,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(215,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(221,16): error C2065: “SqQueue”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(221,25): error C2065: “Q”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(222,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(222,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(227,13): error C2065: “SqQueue”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(227,22): error C2065: “Q”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(227,25): error C2065: “elemdata”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(227,35): error C2065: “e”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(228,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(228,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(234,18): error C2065: “SqQueue”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(234,27): error C2065: “Q”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(235,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(235,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(239,1): error C2144: 语法错误:“int”的前面应有“;”
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(239,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(239,17): error C2065: “BiTree”: 未声明的标识符
+C:\Users\pc\Desktop\VC\测试棒棒\测试棒棒.cpp(239,23): fatal error C1003: 错误计数超过 100；正在停止编译

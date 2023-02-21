@@ -1,0 +1,6 @@
+﻿  兄弟孩子链表.cpp
+C:\Users\pc\Desktop\VC\兄弟孩子链表\兄弟孩子链表.cpp(340,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“CSTree”
+C:\Users\pc\Desktop\VC\兄弟孩子链表\兄弟孩子链表.cpp(340,12): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "CSTree" 的参数 1 冲突
+C:\Users\pc\Desktop\VC\兄弟孩子链表\兄弟孩子链表.cpp(317,14): warning C4101: “fa”: 未引用的局部变量
+C:\Users\pc\Desktop\VC\兄弟孩子链表\兄弟孩子链表.cpp(317,17): warning C4101: “so”: 未引用的局部变量
+  兄弟孩子链表.vcxproj -> C:\Users\pc\Desktop\VC\兄弟孩子链表\x64\Debug\兄弟孩子链表.exe
